@@ -1,0 +1,52 @@
+div {
+    text-align: center;
+}  
+
+.linea{
+    color:#0a2ff1;
+    background-color: #0a2ff1;
+}
+
+.titulo{
+    color:#0a2ff1 ;
+    font-size: 66px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.black{
+    background-color: black;
+    color:white;
+    font-size: 197px ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.friday{
+    color: black;
+    font-size: 217px ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.descuento {
+    color :#0a2ff1;
+    font-size: 48px ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.porcentaje{
+    background-color: black;
+    color: white;
+    font-size: 60px ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.oportunidad{
+    color:#0a2ff1;
+    font-size: 58px ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer{
+    color:#0a2ff1;
+    background-color: #0a2ff1;
+
+}
