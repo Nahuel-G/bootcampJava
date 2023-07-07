@@ -1,0 +1,49 @@
+body {
+    font-family: "Source Sans Variable", sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.contenedor-general {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .texto-chiquito {
+    font-size: 38px;
+    color: #04146c;
+    text-align: center;
+  }
+  
+  .titulo {
+    color: #04146c;
+    font-family: "Source Sans Variable Black", sans-serif;
+    font-size: 88px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .subtitulo {
+    text-align: center;
+    color: #04146c;
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  
+  .descripcion-imagen {
+    text-align: center;
+    background-color: #edf7ff;
+    font-size: 24px;
+    color:#04146c;
+    margin-top: 20px;
+  }
+  
+  .descripcion-imagen img {
+    text-align: center;
+    width: 600px;
+  }

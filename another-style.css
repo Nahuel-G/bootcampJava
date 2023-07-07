@@ -1,0 +1,18 @@
+/*Poppins light & bold 24pt #0a2ff1*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
+p{
+    font-size: 32PX ;
+    text-align: center;
+    font-family:'Poppins', sans-serif;
+    color:  #0a2ff1;
+}
+img {
+    width:100px; 
+    vertical-align: middle; 
+    margin-left: 30px;
+}
+.contenedor-imagenes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
